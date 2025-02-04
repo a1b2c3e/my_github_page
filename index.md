@@ -1,4 +1,4 @@
 # About me
 Hello, this is Tony. Thank you!
 
-[An image]medium.webp
+![An image]medium.webp
